@@ -5,7 +5,7 @@ heat patterns using Python, Pandas, SQL, Matplotlib, Seaborn
 and Power BI — built on real IMD climate data.
 
 ## Live Kaggle Notebook
-[View Full Code + All 12 Charts](PASTE_YOUR_KAGGLE_LINK_HERE)
+[View Full Code + All 12 Charts](https://www.kaggle.com/code/alankriti21/project-1)
 
 ## Power BI Dashboard
 [Interactive Dashboard](PASTE_POWERBI_LINK_HERE)
